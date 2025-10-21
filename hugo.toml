@@ -119,7 +119,7 @@ languageName = "English"
     pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
     post = ""
     name = ""
-    url = "https://github.com/peejaywk/blog"
+    url = "https://github.com/peejaywk/peejay-blog"
     title = "GitHub"
 # Markup related configuration in Hugo
 [markup]
